@@ -45,6 +45,7 @@ tags:
 * [হাতেকলমে মেশিন লার্নিং](https://goo.gl/zvcKt2) <br/>
 * [সম্ভাবনাময় মেশিন লার্নিং শুরুর কিছু পথ-নির্দেশিকা](https://goo.gl/PmGSDK) <br/>
 * [জাকিরের টেক ডায়েরি](https://goo.gl/FaKwQw) <br/>
+* [মানসের ব্লগ](https://ml.howtocode.com.bd/ml_intro)<br/>
 
 ### বাংলা ভিডিও টিউটোরিউয়াল <br/>
 * [Tutorials](https://www.youtube.com/watch?v=-0eynkikmno&list=PL_SlMximwEb4vtf9XDV_iJXtGSZc3Qtz5)<br/>
