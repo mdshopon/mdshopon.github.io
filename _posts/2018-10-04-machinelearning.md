@@ -2,7 +2,7 @@
 layout: page
 use-site-title: true
 bigimg: '/img/home.gif'
-image: /img/ml.jpeg
+image: /img/mls.png
 
 title: মেশিন লার্নিং কিভাবে শুরু করব ? 
 tags:
