@@ -3,11 +3,11 @@ layout: page
 title: Study in Canada
 use-site-title: true
 bigimg: '/img/home.gif'
-image: /img/authors/shopon.jpg
+image: /img/canada.png
 tags:
-  - Online Course
-  - Distance Learning
-  - Learning
+  - Higher Study
+  - Canada
+  - Masters Degree
 ---
 
 
