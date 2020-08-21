@@ -2,7 +2,7 @@
 layout: post
 title: Deploying a django app - Part 1
 subtitle: Using AWS for storing static files
-image: /img/authors/shopon.jpg
+image: /img/deploy_django_p2.jpg
 bigimg: '/img/home.gif'
 
 tags: [programming, software, open source, web apps]
