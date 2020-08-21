@@ -6,7 +6,7 @@ subtitle: What do I do
 
 <p class="about-text">
 <span class="fa fa-briefcase about-icon"></span>
-  Hi, my name is <strong>Md Shopon</strong>, I am an acamdeician, programmer and machine learning enthusiast. I hail from Dhaka, Bangladesh.
+  Hi, my name is <strong>Md Shopon</strong>, I am an acamdeician, programmer and machine learning enthusiast. I hail from Dhaka, Bangladesh. Currently I am working as a Lecturer in Department of Computer Science and Engineering, University of Asia Pacific. 
 </p>
 
 <p class="about-text">
@@ -21,20 +21,17 @@ I have obtained my Bachelor of Science degree in <strong>Computer Science & Engi
 </p>
 
 <span class="fa fa-code about-icon"></span>
-I am a programmer, python developer and my interests lie in Computer Vision, Biometric Technologies and Deep Learning.
+I am a programmer, python developer and my interests lie in Computer Vision, Biometric Technologies and Deep Learning. 
 </p>
 
 <p class="abshopon.uap<span class="fa fa-heart about-icon"></span>
 I am passionate for coding, love traveling, like listening to music, a foodie, interested in latest technology trends, AI and gaming. I watch a lot of TV series and sci-fi movies..
 </p>
-<p class="about-text">
-<span class="fas fa-envelope-open-text about-icon"></span>
-Let’s connect if you want to collab and create something awesome in the world of machine learning. Follow the social media links given below or drop a mail <a target="_blank" href="mailto:shopon.uap@gmail.com">here</a>.
-</p>
+
 
 <p class="about-text">
 <span class="fa fa-envelope about-icon"></span>
-Let’s connect if you want to collab and create something awesome in the world of machine learning. Follow the social media links given below or drop a mail <a target="_blank" href="mailto:thegeek.004@gmail.com">here</a>.
+Let’s connect if you want to collab and create something awesome in the world of machine learning. Follow the social media links given below or drop a mail <a target="_blank" href="mailto:shopon.uap@gmail.com">here</a>.
 </p>
 ### Quotes that inspire me:
 
