@@ -3,7 +3,7 @@ layout: page
 title: Study in Canada
 use-site-title: true
 bigimg: '/img/home.gif'
-image: /img/canada.png
+image: /img/cana.jpg
 tags:
   - Higher Study
   - Canada
