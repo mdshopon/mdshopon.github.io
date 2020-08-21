@@ -3,7 +3,7 @@ layout: page
 title: Utilize your time by taking any of these free of cost online courses
 use-site-title: true
 bigimg: '/img/home.gif'
-image: /img/authors/shopon.jpg
+image: /img/onlinecourse.jpg
 tags:
   - Online Course
   - Distance Learning
