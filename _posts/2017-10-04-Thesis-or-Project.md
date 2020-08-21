@@ -3,7 +3,7 @@ layout: page
 title: থিসিস নাকি প্রজেক্ট নাকি দুটোই??
 use-site-title: true
 bigimg: '/img/home.gif'
-image: /img/authors/shopon.jpg
+image: /img/thesis.jpg
 
 ---
 
