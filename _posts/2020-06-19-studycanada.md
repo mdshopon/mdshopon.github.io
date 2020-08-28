@@ -108,25 +108,25 @@ N.B. Whether you graduated from a public or a private university, does not matte
 ## 2. স্কলারশিপ বা ফান্ডিং ব্যাপার টা আসলে কি? 
 মূলত কয়েকভাবে আপনি কানাডা তে স্কলারশিপ পেয়ে থাকতে পারেন। আমি মুল দুইটা আপনাকে তুলে ধরছি।
 
-* সেন্ট্রাল স্কলারশিপঃ সেন্ট্রাল স্কলারশিপ হচ্ছে যেই স্কলারশিপ গুলো সরাসরি ইউনিভার্সিটি অথবা অন্য কোন মাধ্যম থেকে সরাসরি পাওয়া হয়। এই স্কলারশিপ কে অন্যভাবে "গ্যারেন্টেড স্কলারশিপ" ও বলা হয়। এই স্কলারসিপ গুলো একটু কম্পিটিটিভ হয়ে থাকে। এগুলোর জন্য আলাদা ভাবে এপ্লাই করতে হবে। আন্ডারগ্র্যাজুয়েট প্রোগ্রামগুলোর চেয়ে মাস্টার্স এবং পিএইচডি প্রোগ্রামের জন্যে ফান্ডিং, স্কলারশিপের সুবিধা বেশি। কানাডিয়ান ইউনিভার্সিটি ও কানাডিয়ান সরকার প্রতি বছর ইন্টারন্যাশনাল স্টুডেন্টদের জন্য বিভিন্ন ধরনের স্কলারশিপ প্রদান করে থাকে। কানাডায় পড়াশোনার জন্য বাংলাদেশের শিক্ষার্থীরা যেসব বৃত্তির জন্য আবেদন করতে পারেন:- <br/>
-<ol>
-<li>Banting Postdoctoral Fellowships</li>
-<li>CIFAR Global Scholars</li>
-<li>CIHR Fellowship</ul>
-<li>IDRC Doctoral Research Awards</li>
-<li>IDRC Research Awards</li>
-<li>Industrial Postgraduate Scholarships Program</li>
-<li>Industrial Research and Development Internship (IRDI) Program</li>
-<li>Research Associate Program</li>
-<li>Sauvé Scholars Program</li>
-<li>Strategic Training Initiative in Health Research (STIHR)</li>
-<li>The Bentley Cropping Systems Fellowship</li>
-<li>Trudeau Fellowships</li>
-<li>Trudeau Scholarships</li>
-<li>Vanier Canada Graduate Scholarships</li>
-<li>Visiting Fellowships in Canadian Government Laboratories Program.</li>
-</ol> 
-স্কলারশিপ আবেদনের সময়সূচি ও যোগ্যতাসমূহ জানতে আপনাকে তাদের ওয়েবসাইটসমূহ ভিজিট করতে হবে। </br>
+* সেন্ট্রাল স্কলারশিপঃ সেন্ট্রাল স্কলারশিপ হচ্ছে যেই স্কলারশিপ গুলো সরাসরি ইউনিভার্সিটি অথবা অন্য কোন মাধ্যম থেকে সরাসরি পাওয়া হয়। এই স্কলারশিপ কে অন্যভাবে "গ্যারেন্টেড স্কলারশিপ" ও বলা হয়। এই স্কলারসিপ গুলো একটু কম্পিটিটিভ হয়ে থাকে। এগুলোর জন্য আলাদা ভাবে এপ্লাই করতে হবে। আন্ডারগ্র্যাজুয়েট প্রোগ্রামগুলোর চেয়ে মাস্টার্স এবং পিএইচডি প্রোগ্রামের জন্যে ফান্ডিং, স্কলারশিপের সুবিধা বেশি। কানাডিয়ান ইউনিভার্সিটি ও কানাডিয়ান সরকার প্রতি বছর ইন্টারন্যাশনাল স্টুডেন্টদের জন্য বিভিন্ন ধরনের স্কলারশিপ প্রদান করে থাকে। কানাডায় পড়াশোনার জন্য বাংলাদেশের শিক্ষার্থীরা যেসব বৃত্তির জন্য আবেদন করতে পারেন:-t
+
+  1.  Banting Postdoctoral Fellowships
+  1.  CIFAR Global Scholars
+  1.  CIHR Fellowship
+  1.  IDRC Doctoral Research Awards
+  1.  IDRC Research Awards
+  1.  Industrial Postgraduate Scholarships Program
+  1.  Industrial Research and Development Internship (IRDI) Program
+  1.  Research Associate Program  
+  1.  Sauvé Scholars Program
+  1.  Strategic Training Initiative in Health Research (STIHR)
+  1.  The Bentley Cropping Systems Fellowship
+  1.  Trudeau Fellowships
+  1.  Trudeau Scholarships
+  1.  Vanier Canada Graduate Scholarships
+  1.  Visiting Fellowships in Canadian Government Laboratories Program.
+
+স্কলারশিপ আবেদনের সময়সূচি ও যোগ্যতাসমূহ জানতে আপনাকে তাদের ওয়েবসাইটসমূহ ভিজিট করতে হবে। 
 
 * প্রফেসর ফান্ডিংঃ বাইরের দেশের শিক্ষক রা অনেক সংস্থা থেকে অনুদান পেয়ে থাকে রিসার্চ এর কাজ করার জন্য। তখন ঐ শিক্ষক রা কিছু স্টুডেন্ট দেরকে রিসার্চ এসিটেন্ট হিসেবে নেন এবং সেই স্টুডেন্ট কে টাকা প্রদান করে থাকেন। সেটার সাথে থাকে টিচিং এসিস্টেন্টশিপ ও। এখানে আপনার কোন একজন টিচার কে এসিস্ট করতে হয় যার সুবাদে আপনাকে টাকা দেয়া হবে। এই সোর্স গুলো থেকে আপনি যে টাকা গুলো পাবেন সেগুলো দিয়ে আপনি কানাডা তে থাকা খাওয়ার খরচ এবং টিউশন ফি দিতে হবে।  
 
