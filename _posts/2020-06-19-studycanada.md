@@ -112,21 +112,21 @@ N.B. Whether you graduated from a public or a private university, does not matte
 
 কানাডায় পড়াশোনার জন্য বাংলাদেশের শিক্ষার্থীরা যেসব বৃত্তির জন্য আবেদন করতে পারেন:- <br/>
 <ol>
-<ul>Banting Postdoctoral Fellowships</ul>
-<ul>CIFAR Global Scholars</ul>
-<ul>CIHR Fellowship</ul>
-<ul>IDRC Doctoral Research Awards</ul>
-<ul>IDRC Research Awards</ul>
-<ul>Industrial Postgraduate Scholarships Program</ul>
-<ul>Industrial Research and Development Internship (IRDI) Program</ul>
-<ul>Research Associate Program</ul>
-<ul>Sauvé Scholars Program</ul>
-<ul>Strategic Training Initiative in Health Research (STIHR)</ul>
-<ul>The Bentley Cropping Systems Fellowship</ul>
-<ul>Trudeau Fellowships</ul>
-<ul>Trudeau Scholarships</ul>
-<ul>Vanier Canada Graduate Scholarships</ul>
-<ul>Visiting Fellowships in Canadian Government Laboratories Program.</ul>
+<li>Banting Postdoctoral Fellowships</li>
+<li>CIFAR Global Scholars</li>
+<li>CIHR Fellowship</ul>
+<li>IDRC Doctoral Research Awards</li>
+<li>IDRC Research Awards</li>
+<li>Industrial Postgraduate Scholarships Program</li>
+<li>Industrial Research and Development Internship (IRDI) Program</li>
+<li>Research Associate Program</li>
+<li>Sauvé Scholars Program</li>
+<li>Strategic Training Initiative in Health Research (STIHR)</li>
+<li>The Bentley Cropping Systems Fellowship</li>
+<li>Trudeau Fellowships</li>
+<li>Trudeau Scholarships</li>
+<li>Vanier Canada Graduate Scholarships</li>
+<li>Visiting Fellowships in Canadian Government Laboratories Program.</li>
 </ol> 
 
 * প্রফেসর ফান্ডিংঃ বাইরের দেশের শিক্ষক রা অনেক সংস্থা থেকে অনুদান পেয়ে থাকে রিসার্চ এর কাজ করার জন্য। তখন ঐ শিক্ষক রা কিছু স্টুডেন্ট দেরকে রিসার্চ এসিটেন্ট হিসেবে নেন এবং সেই স্টুডেন্ট কে টাকা প্রদান করে থাকেন। সেটার সাথে থাকে টিচিং এসিস্টেন্টশিপ ও। এখানে আপনার কোন একজন টিচার কে এসিস্ট করতে হয় যার সুবাদে আপনাকে টাকা দেয়া হবে। এই সোর্স গুলো থেকে আপনি যে টাকা গুলো পাবেন সেগুলো দিয়ে আপনি কানাডা তে থাকা খাওয়ার খরচ এবং টিউশন ফি দিতে হবে।  
@@ -279,6 +279,6 @@ This portion has been written by Rakib Hussain, Master of Arts, Communications, 
 আশা করি এই স্টেপ এ আশার মানে হচ্ছে আপনি কোন ইউনিভার্সিটি তে সুযোগ পেয়ে গেছেন। এখন হচ্ছে আপনার স্টাডি পারমিট এর এপ্লিকেশন এর পালা। এই ভিসা এপ্লিকেশন এর ব্যাপারে সবাই সবচাইতে বেশি কনফিউজড থাকে। আপনার যেই কোন কনফিউশন গ্রূপে আপনি পোস্ট করতে পারেন। স্টাডি পারমিট এ এপ্লাই করার জন্য খুব সুন্দর কিছু ডকুমেন্ট তৈরি করা আছে। এগুলোর থেকে ভালো গাইডলাইন আর কিছু নেই। এই লিঙ্ক এ [ক্লিক](https://www.pbscu.ca/study-permit.html) করে স্টাডি পারমিট এর ব্যাপারে যাবতীয় ইনফরমেশন আপনি পাবেন। অনেক ধরনের কনফিউসন থাকবে আপনাদের ভিসা এপ্লিকেশন এর সময়। অবশ্যই PBSCU গ্রূপে আপনাদের কনফিউশন গুলো পোস্ট করতে পারেন। 
 
 
-আশা করি এই পোস্ট টি আপনাদের কিছুটা হলেও সাহাজ্য করবে সম্পুর্ন প্রসেস টা বুঝতে। তারপরো যদি আপনার কোন ধরনের প্রশ্ন থাকে আমাকে যে কোন মুহুর্তে ইমেইল করতে পারেন অথবা PBSCU গ্রূপে পোস্ট করতে পারেন। অনেক গুলো ডকুমেন্ট এর কথাই এখানে বলেছি আমি। আপনাদের সুবিদার্থে আমি কিছু স্যাম্পল ডকুমেন্ট এর লিঙ্ক দিয়ে দিছি। কিন্তু আপনাদের ভালোর জন্য বলছি, দয়া করে হুবুহু এই স্যাম্পল গুলো কপি পেস্ট করবেন না, নতুবা আপনি আপনার নিজের ক্ষতি নিজেই ডেকে আনবেন। তাই সাবধান, এই স্যাম্পল ডকুমেন্ট গুলো সুধুমাত্র আপনাদের আইডিয়া দেয়ার জন্য। এই [লিঙ্ক](লিঙ্ক) এ ক্লিক করে আপনারা স্যাম্পল ডকুমেন্ট গুলো দেখে নিতে পারেন।  
+আশা করি এই পোস্ট টি আপনাদের কিছুটা হলেও সাহাজ্য করবে সম্পুর্ন প্রসেস টা বুঝতে। তারপরো যদি আপনার কোন ধরনের প্রশ্ন থাকে আমাকে যে কোন মুহুর্তে ইমেইল করতে পারেন অথবা PBSCU গ্রূপে পোস্ট করতে পারেন। অনেক গুলো ডকুমেন্ট এর কথাই এখানে বলেছি আমি। আপনাদের সুবিদার্থে আমি কিছু স্যাম্পল ডকুমেন্ট এর লিঙ্ক দিয়ে দিছি। কিন্তু আপনাদের ভালোর জন্য বলছি, দয়া করে হুবুহু এই স্যাম্পল গুলো কপি পেস্ট করবেন না, নতুবা আপনি আপনার নিজের ক্ষতি নিজেই ডেকে আনবেন। তাই সাবধান, এই স্যাম্পল ডকুমেন্ট গুলো সুধুমাত্র আপনাদের আইডিয়া দেয়ার জন্য। এই [লিঙ্ক](https://drive.google.com/drive/folders/123OzW1iloA-X6lZDmQFvb32NmiQGLOou?usp=sharing) এ ক্লিক করে আপনারা স্যাম্পল ডকুমেন্ট গুলো দেখে নিতে পারেন।  
 
 আশা করি আপনারা সবাই আপনাদের স্বপ্নের কাছাকাছি পৌছে যেতে পারবেন একদিন।
