@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Study in Canada - From beginning to how to manage funding and Scholarship
 use-site-title: true
 bigimg: '/img/home.gif'
