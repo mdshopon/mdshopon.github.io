@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Utilize your time by taking any of these free of cost online courses
 use-site-title: true
 bigimg: '/img/home.gif'
