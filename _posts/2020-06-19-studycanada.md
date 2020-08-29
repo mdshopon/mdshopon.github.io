@@ -23,7 +23,7 @@ tags:
 
 
 <details>
-<summary>**প্রশ্নঃ আমার সিজিপিএ ভালো না, আমি কি স্কলারশিপ পাবার আশা করতে পারি?**
+<summary><b>প্রশ্নঃ আমার সিজিপিএ ভালো না, আমি কি স্কলারশিপ পাবার আশা করতে পারি?</b>
 </summary>
 -------------------------------------------------------------------------------------
 <p>This portion has been written by Dr. Abdullah Al Maruf (University of Toronto). Collected from <a href="http://www.pbscu.ca/faq.html">PBSCU</a>. </p> 
