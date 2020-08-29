@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 use-site-title: true
 bigimg: '/img/home.gif'
 image: /img/mls.png
