@@ -23,7 +23,7 @@ tags:
 
 
 <details>
-<summary>প্রশ্নঃ আমার সিজিপিএ ভালো না, আমি কি স্কলারশিপ পাবার আশা করতে পারি? 
+<summary>**প্রশ্নঃ আমার সিজিপিএ ভালো না, আমি কি স্কলারশিপ পাবার আশা করতে পারি?**
 </summary>
 -------------------------------------------------------------------------------------
 <p>This portion has been written by Dr. Abdullah Al Maruf (University of Toronto). Collected from <a href="http://www.pbscu.ca/faq.html">PBSCU</a>. </p> 
@@ -61,7 +61,7 @@ N.B. Whether you graduated from a public or a private university, does not matte
 </details>
 
 <details>
-<summary>প্রশ্নঃ কি পরিমাণ টাকা পয়সা দরকার হবে পুরো এপ্লিকেশন প্রসেস এ? 
+<summary>**প্রশ্নঃ কি পরিমাণ টাকা পয়সা দরকার হবে পুরো এপ্লিকেশন প্রসেস এ?**
 </summary>
 আমি একটা মোটামুটি একটা সারাংশ দিচ্ছি সম্পুর্ন খরচের <br/>
 <ol>
