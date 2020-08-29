@@ -300,7 +300,7 @@ This portion has been written by Rakib Hussain, Master of Arts, Communications, 
 /*
 var disqus_config = function () {
 this.page.url = "https://mdshopon.github.io/";  // Replace PAGE_URL with your page's canonical URL variable
-this.page.identifier = 'Study_inCanda'; // tReplace PAGE_IDENTIFIER with your page's unique identifier variable
+this.page.identifier = '/posts/2020-06-19-studycanada'; // tReplace PAGE_IDENTIFIER with your page's unique identifier variable
 };
 */
 (function() { // DON'T EDIT BELOW THIS LINE
