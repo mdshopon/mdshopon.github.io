@@ -289,6 +289,3 @@ This portion has been written by Rakib Hussain, Master of Arts, Communications, 
 
 আশা করি আপনারা সবাই আপনাদের স্বপ্নের কাছাকাছি পৌছে যেতে পারবেন একদিন।
 
-{% if site.disqus.shortname %}
-  {% include disqus.html %}
-{% endif %}
