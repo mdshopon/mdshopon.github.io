@@ -29,16 +29,6 @@ An Deep Learning based model for classifying Bangla News Articles.
 
 <br/>
 
-## TensorNet
-
-A high-level deep learning library built on top of PyTorch.
-
-- The library contains some advanced concepts like GradCAM and LR Finder into the package so that they can be used via a simple function call.
-- Extensive use of code modularization and OOP has been done with proper docstrings for each function in order to maintain a clean and understandable codebase.
-- _Tools_: Python, PyTorch.
-- _PyPI URL_: [PyPI](https://pypi.org/project/torch-tensornet/)
-
-<br/>
 
 ## Topic Based Image Captioning
 
