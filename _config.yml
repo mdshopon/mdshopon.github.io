@@ -126,8 +126,10 @@ google_analytics: 'UA-120489986-1'
 #  opt-out: true
 
 # --- Misc --- #
-# Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-disqus: 'shopon666'
+# Fill in your Disqus shortname (NOT the userid) if you want to support Disqus 
+
+disqus: 
+  shortname: shopon666
 
 # Facebook App ID
 # fb_app_id: ""
