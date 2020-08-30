@@ -148,7 +148,7 @@ title-separator: '-'
 timezone: 'Asia/Dhaka'
 markdown: kramdown
 highlighter: rouge
-permalink: /:title/
+permalink: /:year-:month-:day-:title/
 paginate: 8
 
 kramdown:
