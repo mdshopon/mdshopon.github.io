@@ -10,16 +10,17 @@ tags:
   - Machine Learning
   - Deep Learning
 ---
-In order to get started with neural networks please maintain the given flow. First, you need to learn how neural networks work. Implement a simple code for neural networks. </br>
+In order to get started with neural networks please maintain the given flow. First, you need to learn how neural networks work. Implement a simple code for neural networks. 
 
 </br>
 #### First, go through these videos. This is the most intuitive explanation you will ever get of neural networks.
 * https://www.youtube.com/watch?v=aircAruvnKk&t=958s
 * https://www.youtube.com/watch?v=IHZwWFHWa-w&t=1s
 * https://www.youtube.com/watch?v=Ilg3gGewQ5U&t=9s
-* https://www.youtube.com/watch?v=tIeHLnjs5U8&t=86s</br>
+* https://www.youtube.com/watch?v=tIeHLnjs5U8&t=86s<
 
 </br>
+
 #### After this, I am guessing you will get a basic grasp of neural networks. Then you can go through these tutorials.
 * https://towardsdatascience.com/first-neural-network-for-beginners-explained-with-code-4cfd37e06eaf
 * https://mlfromscratch.com/neural-networks-explained/#/
