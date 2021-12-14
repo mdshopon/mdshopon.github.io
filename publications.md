@@ -25,19 +25,8 @@ This is a collection of the research work that I have done till now.
   
 ## Journals:
 
-### [2] BanglaLekha-Isolated: A multi-purpose comprehensive dataset of Handwritten Bangla Isolated characters.(Journal)
 
-- **Publisher:** Elsevier Data in Brief, 12, 103-107.
-- **Publication Year:** 2017
-- **Authors**: Biswas, M., Islam, R., Shom, G. K., Shopon, M., Mohammed, N., Momen, S., & Abedin, A
-- **Link:** https://www.sciencedirect.com/science/article/pii/S2352340917301117
-- <details>
-  <summary>Abstract</summary>
-  BanglaLekha-Isolated, a Bangla handwritten isolated character dataset is presented in this article. This dataset contains 84 different characters comprising of 50 Bangla basic characters, 10 Bangla numerals and 24 selected compound characters. 2000 handwriting samples for each of the 84 characters were collected, digitized and pre-processed. After discarding mistakes and scribbles, 1,66,105 handwritten character images were included in the final dataset. The dataset also includes labels indicating the age and the gender of the subjects from whom the samples were collected. This dataset could be used not only for optical handwriting recognition research but also to explore the influence of gender and age on handwriting. The dataset is publicly available at https://data.mendeley.com/datasets/hf6sf8zrkc/2.
-
-<br/>
-
-### [3] Biometric Systems De-Identification: Current Advancements and Future Directions
+### [2] Biometric Systems De-Identification: Current Advancements and Future Directions
 
 - **Journal:** Journal of Cybersecurity and Privacy
 - **Publication Year:** 2021
@@ -49,7 +38,7 @@ This is a collection of the research work that I have done till now.
 
 <br/>
  
-###  [4] Residual connection-based graph convolutional neural networks for gait recognition
+###  [3] Residual connection-based graph convolutional neural networks for gait recognition
 
 - **Journal:** The Visual Computer
 - **Publication Year:** 2021
@@ -58,6 +47,18 @@ This is a collection of the research work that I have done till now.
 - <details>
   <summary>Abstract</summary>
   The walking manner of a person, also known as gait, is a unique behavioral biometric trait. Existing methods for gait recognition predominantly utilize traditional machine learning. However, the performance of gait recognition can deteriorate under challenging conditions including environmental occlusion, bulky clothing, and different viewing angles. To provide an effective solution to gait recognition under these conditions, this paper proposes a novel deep learning architecture using Graph Convolutional Neural Network (GCNN) that incorporates residual connections for gait recognition from videos. The optimized feature map of the proposed GCNN architecture exhibits the invariant property to viewing angle and subject’s clothing. The residual connection is used to capture both spatial and temporal features of a gait sequence. The kinematic dependency extracted from shallower network layer is propagated to deeper layer using residual connection-based GCNN architecture. The proposed method is validated on CASIA-B gait dataset and outperforms all recent state-of-the-art methods.
+
+<br/>
+
+### [4] BanglaLekha-Isolated: A multi-purpose comprehensive dataset of Handwritten Bangla Isolated characters.(Journal)
+
+- **Publisher:** Elsevier Data in Brief, 12, 103-107.
+- **Publication Year:** 2017
+- **Authors**: Biswas, M., Islam, R., Shom, G. K., Shopon, M., Mohammed, N., Momen, S., & Abedin, A
+- **Link:** https://www.sciencedirect.com/science/article/pii/S2352340917301117
+- <details>
+  <summary>Abstract</summary>
+  BanglaLekha-Isolated, a Bangla handwritten isolated character dataset is presented in this article. This dataset contains 84 different characters comprising of 50 Bangla basic characters, 10 Bangla numerals and 24 selected compound characters. 2000 handwriting samples for each of the 84 characters were collected, digitized and pre-processed. After discarding mistakes and scribbles, 1,66,105 handwritten character images were included in the final dataset. The dataset also includes labels indicating the age and the gender of the subjects from whom the samples were collected. This dataset could be used not only for optical handwriting recognition research but also to explore the influence of gender and age on handwriting. The dataset is publicly available at https://data.mendeley.com/datasets/hf6sf8zrkc/2.
 
 <br/>
   
@@ -72,7 +73,6 @@ This is a collection of the research work that I have done till now.
 - <details>
   <summary>Abstract</summary>
   Handwritten digit recognition is a typical image classification problem. Convolutional neural networks, also known as ConvNets, are powerful classification models for such tasks. As different languages have different styles and shapes of their numeral digits, accuracy rates of the models vary from each other and from language to language. However, unsupervised pre-training in such situation has shown improved accuracy for classification tasks, though no such work has been found for Bangla digit recognition. This paper presents the use of unsupervised pre-training using autoencoder with deep ConvNet in order to recognize handwritten Bangla digits, i.e., 0-9. The datasets that are used in this paper are CMATERDB 3.1.1 and a dataset published by the Indian Statistical Institute (ISI). This paper studies four different combinations of these two datasets-two experiments are done against their own training and testing images, other two experiments are done cross validating the datasets. In one of these four experiments, the proposed approach achieves 99.50% accuracy, which is so far the best for recognizing handwritten Bangla digits. The ConvNet model is trained with 19,313 images of ISI handwritten character dataset and tested with images of CMATERDB dataset.
-
 
 
 <br/>
