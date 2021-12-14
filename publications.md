@@ -34,7 +34,7 @@ This is a collection of the research work that I have done till now.
 
 <br/>
   
- ##  Biometric Systems De-Identification: Current Advancements and Future Directions
+##  Biometric Systems De-Identification: Current Advancements and Future Directions
 
 - **Journal:** Journal of Cybersecurity and Privacy
 - **Publication Year:** 2021
@@ -58,7 +58,7 @@ The walking manner of a person, also known as gait, is a unique behavioral biome
 
 <br/>
 
-  ##  Biometric System De-identification: Concepts, Applications, and Open Problems
+##  Biometric System De-identification: Concepts, Applications, and Open Problems
 
 - **Book Chapter:** Handbook of Artificial Intelligence in Healthcare
 - **Publication Year:** 2021
@@ -70,7 +70,7 @@ This chapter advances information security research by integrating privacy conce
 
 <br/>
   
-    ##  A Graph Convolutional Neural Network for Reliable Gait-Based Human Recognition
+##  A Graph Convolutional Neural Network for Reliable Gait-Based Human Recognition
   
 - **Conference:** 2021 IEEE International Conference on Autonomous Systems (ICAS)
 - **Publication Year:** 2021
@@ -84,7 +84,7 @@ In a domain of human-machine autonomous systems, gait recognition provides uniqu
   
   
   
-      ##  	Age-Style and Alignment Augmentation for Facial Age Estimation
+##  	Age-Style and Alignment Augmentation for Facial Age Estimation
   
 - **Conference:** International Conference on Computer Analysis of Images and Patterns
 - **Publication Year:** 2021
@@ -96,7 +96,7 @@ Facial age is an important soft biometric trait for better identification of a h
 
 <br/>
   
-     ##  Air Quality Index Prediction Using Azure IoT & Machine Learning for Smart Cities
+##  Air Quality Index Prediction Using Azure IoT & Machine Learning for Smart Cities
   
 - **Conference:**  International Conference on Computational Intelligence, Data Science and Cloud Computing 
 - **Publication Year:** 2020
@@ -108,7 +108,7 @@ In this paper, we are concerned about the air pollution & Air Quality Index (AQI
 
 <br/>
   
-       ##  Short-term and Long-term Air Quality Forecasting Technique Using Stacked LSTM
+##  Short-term and Long-term Air Quality Forecasting Technique Using Stacked LSTM
   
 - **Conference:**  6th International Conference on Communication and Information Processing
 - **Publication Year:** 2020
