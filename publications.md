@@ -20,7 +20,6 @@ This is a collection of the research work that I have done till now.
 - <details>
   <summary>Abstract</summary>
   This chapter advances information security research by integrating privacy concepts with the most recent biometric developments. Analytical discussions on how physiological, behavioral and social behavioral biometric data can be protected in various authentication applications will be presented. The chapter starts with introducing new de-identification classification, including complete de-identification, soft biometric preserving de-identification, soft biometric preserving utility retained de-identification, and traditional biometric de-identification. It then proceeds to introduce additional types of de-identification, related to emerging biometric research domains which include social behavioral biometrics, aesthetic identification, sensor-based biometrics, spatial and temporal patterns, and psychological user profiles. This chapter also provides some insights into current and emerging research in the multi-modal biometric domain and proposes for the first time multi-modal biometric system de-identification based on deep learning. It concludes with formulating open questions and investigating future directions in this vibrant research field. Answers to those questions will assist not only in the establishment of the new methods in the biometric security and privacy domains, but also provide insights into the future emerging topics in big data analytics and social network research.
-
 <br/>
   
 ## Journals:
@@ -35,7 +34,6 @@ This is a collection of the research work that I have done till now.
 - <details>
   <summary>Abstract</summary>
   Biometric de-identification is an emerging topic of research within the information security domain that integrates privacy considerations with biometric system development. A comprehensive overview of research in the context of authentication applications spanning physiological, behavioral, and social-behavioral biometric systems and their privacy considerations is discussed. Three categories of biometric de-identification are introduced, namely complete de-identification, auxiliary biometric preserving de-identification, and traditional biometric preserving de-identification. An overview of biometric de-identification in emerging domains such as sensor-based biometrics, social behavioral biometrics, psychological user profile identification, and aesthetic-based biometrics is presented. The article concludes with open questions and provides a rich avenue for subsequent explorations of biometric de-identification in the context of information privacy.
-
 <br/>
  
 ###  [3] Residual connection-based graph convolutional neural networks for gait recognition
@@ -47,7 +45,6 @@ This is a collection of the research work that I have done till now.
 - <details>
   <summary>Abstract</summary>
   The walking manner of a person, also known as gait, is a unique behavioral biometric trait. Existing methods for gait recognition predominantly utilize traditional machine learning. However, the performance of gait recognition can deteriorate under challenging conditions including environmental occlusion, bulky clothing, and different viewing angles. To provide an effective solution to gait recognition under these conditions, this paper proposes a novel deep learning architecture using Graph Convolutional Neural Network (GCNN) that incorporates residual connections for gait recognition from videos. The optimized feature map of the proposed GCNN architecture exhibits the invariant property to viewing angle and subject’s clothing. The residual connection is used to capture both spatial and temporal features of a gait sequence. The kinematic dependency extracted from shallower network layer is propagated to deeper layer using residual connection-based GCNN architecture. The proposed method is validated on CASIA-B gait dataset and outperforms all recent state-of-the-art methods.
-
 <br/>
 
 ### [4] BanglaLekha-Isolated: A multi-purpose comprehensive dataset of Handwritten Bangla Isolated characters.(Journal)
@@ -59,7 +56,6 @@ This is a collection of the research work that I have done till now.
 - <details>
   <summary>Abstract</summary>
   BanglaLekha-Isolated, a Bangla handwritten isolated character dataset is presented in this article. This dataset contains 84 different characters comprising of 50 Bangla basic characters, 10 Bangla numerals and 24 selected compound characters. 2000 handwriting samples for each of the 84 characters were collected, digitized and pre-processed. After discarding mistakes and scribbles, 1,66,105 handwritten character images were included in the final dataset. The dataset also includes labels indicating the age and the gender of the subjects from whom the samples were collected. This dataset could be used not only for optical handwriting recognition research but also to explore the influence of gender and age on handwriting. The dataset is publicly available at https://data.mendeley.com/datasets/hf6sf8zrkc/2.
-
 <br/>
   
 ## Conference Papers:
@@ -73,8 +69,6 @@ This is a collection of the research work that I have done till now.
 - <details>
   <summary>Abstract</summary>
   Handwritten digit recognition is a typical image classification problem. Convolutional neural networks, also known as ConvNets, are powerful classification models for such tasks. As different languages have different styles and shapes of their numeral digits, accuracy rates of the models vary from each other and from language to language. However, unsupervised pre-training in such situation has shown improved accuracy for classification tasks, though no such work has been found for Bangla digit recognition. This paper presents the use of unsupervised pre-training using autoencoder with deep ConvNet in order to recognize handwritten Bangla digits, i.e., 0-9. The datasets that are used in this paper are CMATERDB 3.1.1 and a dataset published by the Indian Statistical Institute (ISI). This paper studies four different combinations of these two datasets-two experiments are done against their own training and testing images, other two experiments are done cross validating the datasets. In one of these four experiments, the proposed approach achieves 99.50% accuracy, which is so far the best for recognizing handwritten Bangla digits. The ConvNet model is trained with 19,313 images of ISI handwritten character dataset and tested with images of CMATERDB dataset.
-
-
 <br/>
   
 
@@ -90,7 +84,6 @@ This is a collection of the research work that I have done till now.
 - <details>
   <summary>Abstract</summary>
   In a domain of human-machine autonomous systems, gait recognition provides unique advantages over other biometric modalities. It is an unobtrusive, widely-acceptable way of identity, gesture and activity recognition, with applications to surveillance, border control, risk prediction, military training and cybersecurity. Trustworthy and reliable person identification from videos under challenging conditions, when a subject’s walk is occluded by environmental elements, bulky clothing or a viewing angle, is addressed in this paper. It proposes a novel deep learning architecture based on Graph Convolutional Neural Network (GCNN) for accurate and reliable gait recognition from videos. The optimized feature map of the proposed GCNN architecture ensures that recognition remains accurate and invariant to viewing angle, type of clothing or other conditions.
-
 <br/>
   
   
@@ -104,7 +97,6 @@ This is a collection of the research work that I have done till now.
 - <details>
   <summary>Abstract</summary>
   Facial age is an important soft biometric trait for better identification of a human subject. The development of a facial age estimation system requires a large collection of age-labeled data. However, the imbalanced data distribution across age poses a major challenge to making a decent model to describe the variation of facial appearance caused by age. The cross-age data imbalance can be observed in common facial age datasets, for example, the MORPH [8], FG-NET [7] and the MIVIA dataset [3] considered in the GTA Contest. It can be often seen that insufficient data are provided for younger ages and senior ages, and the insufficiency becomes worsened as the age moves close to both ends. To deal with the data imbalance issues, many approaches implement various data augmentation schemes. In our approach, we propose a data augmentation scheme built upon the Age-Style GAN (ASGAN), which we propose for facial age regression and progression. In addition to the ASGAN-based data augmentation, we leverage the mean-variance loss to improve the age classification accuracy, and exploit face alignment as an auxiliary scheme to augment the whole dataset with an aligned subset. We conducted extensive experiments on the MIVIA dataset for verifying the performance of our approach.
-
 <br/>
   
 ### [8] Air Quality Index Prediction Using Azure IoT & Machine Learning for Smart Cities
@@ -116,7 +108,6 @@ This is a collection of the research work that I have done till now.
 - <details>
   <summary>Abstract</summary>
   In this paper, we are concerned about the air pollution & Air Quality Index (AQI) level. Today, every major city around the world is facing a worsened situation about public health & environmental disturbance. So, we have proposed an IoT-based solution that evolved with cloud computing platform likes Microsoft Azure, Azure IoT Hub and Azure machine learning (AML). These enhanced the scalability and life cycle of the system. The system classifies the health effects of human life from the air quality index level and gives interactive real-time data visualization results and push notification through the system. We have worked on Dhaka’s air quality dataset. Among major criteria pollutants, we have focused on PM  2.5 , PM  10 , CO, SO  2 , NO  2  that can help us to classify the air quality index level. Multiple classification algorithm is used to train the dataset. Among them, we have acquired the highest accuracy 99.89% with multiclass decision forest.
-
 <br/>
   
 ### [9] Short-term and Long-term Air Quality Forecasting Technique Using Stacked LSTM
@@ -128,7 +119,6 @@ This is a collection of the research work that I have done till now.
 - <details>
   <summary>Abstract</summary>
   For the entire globe, air pollution has been a worrying issue. Earth's Atmosphere contains numerous toxic gases and harmful solid particles are caused by Air pollution. Contaminated Air have been many mischievous effects on human health. Asthma, emphysema, chronic obstructive pulmonary disease and lung cancer can happen due to air contamination. Among other enlisted polluted cities, Dhaka lies in a hazardous problem for air pollution. This paper has approached two Long Short-Term Memory (Vanilla LSTM, Stacked LSTM) model and Gated Recurrent Unit (GRU) model to Predict air Quality Indexing with different hyper-parameter tuning. And analyze future the health effects based on Air Quality Index Level. We have worked on Dhaka Air Quality data which was collected by the United States Environmental Protection Agency (EPA). Among the two models, we have acquired the highest accuracy of 91.61% for Short-term prediction and 90.83% for Long-term prediction. And RMSE value of 4.65 and 16.19 for Air Quality Index value prediction on Stacked LSTM tuned with 200 hidden nodes on the first layer and 100 nodes on the second layer.
-
 <br/>
 
 ### [10] Image augmentation by blocky artifact in deep convolutional neural network for handwritten digit recognition.
@@ -140,7 +130,6 @@ This is a collection of the research work that I have done till now.
 - <details>
   <summary>Abstract</summary>
   Deep Convolutional Neural Networks - also known as DCNN - are powerful models for different visual pattern classification problems. Many works in this field use image augmentation at the training phase to achieve better accuracy. This paper presents blocky artifact as an augmentation technique to increase the accuracy of DCNN for handwritten digit recognition, both English and Bangla digits, i.e., 0-9. This paper conducts a number of experiments on three different datasets: MNIST Dataset, CMATERDB 3.1.1 Dataset and Indian Statistical Institute (ISI) Dataset. For each dataset, DCNNs with the proposed augmentation technique give better results than those without such augmentation. Unsupervised pre-training with the blocky artifact achieves 99.56%, 99.83% and 99.35% accuracy respectively on MNIST, CMATERDDB and ISI datasets producing, in the process, so far the best accuracy rate for CMATERDB and ISI datasets.
-
 <br/>
 
 ### [11] Krill herd based clustering algorithm for wireless sensor networks
