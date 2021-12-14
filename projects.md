@@ -36,7 +36,7 @@ An Deep Learning based model for classifying Bangla News Articles.
 - Collected a Bangla news article dataset 
 - Developed deep learning based solution for the classification
 - Render the order summary as a PDF and send it to the user after a successful transaction.
-- _Tools_: Python, Tensoflow-Keras, NLTK, OpenCV-Python, MSCOCO-2017 Dataset.
+- _Tools_: Python, Tensoflow-Keras, NLTK, OpenCV-Python
 
 <br/>
 
