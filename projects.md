@@ -7,6 +7,17 @@ subtitle: What's been eating away my free time
 This is a collection of my personal projects that I work on in my free time. Hope you like them.
 
 ---
+## Gait Recognition
+
+The walking manner of a person, also known as gait, is a unique behavioral biometric trait. Existing methods for gait recognition predominantly utilize traditional machine learning. However, the performance of gait recognition can deteriorate under challenging conditions including environmental occlusion, bulky clothing, and different viewing angles. 
+
+- In this project a reliable gait recognition system was proposed
+- A residual connection based graph convolutional neural networks was proposed
+- This proposed work was view and accessories invariant
+- _Tools_: Python, Tensoflow-Keras, OpenCV-Python.
+
+<br/>
+
 ## BanglaLekha
 
 Banglalekha was a Govt. funded project for improving the aesthetic quality of Bangla handwriting. Developed the official website of Banglalekha in wordpress (www.banglalekha.org) Developed the official android application of Banglalekha. The application is currently under review of ICT Division, Bangladesh
