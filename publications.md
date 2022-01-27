@@ -21,8 +21,8 @@ This is a collection of the research work that I have done till now.
   <summary><b>Click Here for Abstract</b></summary>
   This chapter advances information security research by integrating privacy concepts with the most recent biometric developments. Analytical discussions on how physiological, behavioral and social behavioral biometric data can be protected in various authentication applications will be presented. The chapter starts with introducing new de-identification classification, including complete de-identification, soft biometric preserving de-identification, soft biometric preserving utility retained de-identification, and traditional biometric de-identification. It then proceeds to introduce additional types of de-identification, related to emerging biometric research domains which include social behavioral biometrics, aesthetic identification, sensor-based biometrics, spatial and temporal patterns, and psychological user profiles. This chapter also provides some insights into current and emerging research in the multi-modal biometric domain and proposes for the first time multi-modal biometric system de-identification based on deep learning. It concludes with formulating open questions and investigating future directions in this vibrant research field. Answers to those questions will assist not only in the establishment of the new methods in the biometric security and privacy domains, but also provide insights into the future emerging topics in big data analytics and social network research.
 <br/>
-  <p align="center">
-  <img  src="/img/ml.jpeg">
+<p align="center">
+<img  src="/img/ml.jpeg">
 </p>
   
 ## Journals:
