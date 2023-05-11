@@ -24,7 +24,6 @@ description: The Goal of Life Should be to die with memories!
 # List of links in the navigation bar
 navbar-links:
   Home: 'index.html'
-  Blog: 'blog'
   Projects: 'projects'
   Publications: 'publications'
   My Resume: 'Resume.pdf'
