@@ -16,7 +16,7 @@ In this project, we propose a novel approach to gait recognition that leverages 
 We use GCNs to learn node and edge embeddings that capture the features of each joint and their interactions with other joints over time. We then use these embeddings to train a deep neural network that can recognize individuals based on their gait patterns.
 ![Alt Text](img/gait.jpg)
 <br/>
-
+<hr>
 ## De-identification
 Face recognition is a powerful technology that has the potential to revolutionize various industries. However, it also raises significant concerns about privacy and surveillance. In many scenarios, it may be necessary to de-identify faces in images and videos to protect the privacy of individuals.
 
