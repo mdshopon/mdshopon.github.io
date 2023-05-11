@@ -10,7 +10,7 @@ This is a collection of the research work that I have done till now.
 
 ## 2022: 
 
-### Multiview gait recognition on unconstrained path using graph convolutional neural network
+#### Multiview gait recognition on unconstrained path using graph convolutional neural network
 
 - **Journal:** IEEE Access
 - **Publication Year:** 2022
@@ -21,7 +21,7 @@ This is a collection of the research work that I have done till now.
   Automatic decision-making, especially when dealing with crucial cybersecurity and privacy issues, has become one of the key directions in digital identity research. Trustworthy human-AI collaboration highlights emergent multifaceted role of AI and deep learning in biometric online security. Biometrics are also increasingly used in a variety of government programs, intended to ensure cybersecurity and to mitigate inherent risks associated with online activities. This chapter provides a comprehensive overview of the current state-of-the-art approaches in the biometric domain, including physiological, behavioral, and social behavioral biometrics. It further establishes connection among biometric online security, privacy, and human psychological traits, including emotions, psychology and aesthetics. This in turn leads to new insights on ensuring safe and secure digital space through artificial intelligence methods, including most recent deep learning approaches. In addition, this chapter discusses emerging paradigms to ensure privacy and trustworthiness of biometric systems: cancelability, de-identification, and information fusion. The chapter is concluded with future research directions in the vibrant domain of behavioral biometrics and online security.
 <br/>
   
-### A Multifaceted Role of Biometrics in Online Security, Privacy, and Trustworthy Decision Making
+#### A Multifaceted Role of Biometrics in Online Security, Privacy, and Trustworthy Decision Making
 
 - **Book Chapter:** Breakthroughs in Digital Biometrics and Forensics
 - **Publication Year:** 2022
@@ -34,7 +34,7 @@ This is a collection of the research work that I have done till now.
 
 ## 2021: 
   
-### Biometric System De-identification: Concepts, Applications, and Open Problems
+#### Biometric System De-identification: Concepts, Applications, and Open Problems
 
 - **Book Chapter:** Handbook of Artificial Intelligence in Healthcare
 - **Publication Year:** 2021
@@ -46,7 +46,7 @@ This is a collection of the research work that I have done till now.
 <br/>
 
 
-### Biometric Systems De-Identification: Current Advancements and Future Directions
+#### Biometric Systems De-Identification: Current Advancements and Future Directions
 
 - **Journal:** Journal of Cybersecurity and Privacy
 - **Publication Year:** 2021
@@ -58,7 +58,7 @@ This is a collection of the research work that I have done till now.
   Biometric de-identification is an emerging topic of research within the information security domain that integrates privacy considerations with biometric system development. A comprehensive overview of research in the context of authentication applications spanning physiological, behavioral, and social-behavioral biometric systems and their privacy considerations is discussed. Three categories of biometric de-identification are introduced, namely complete de-identification, auxiliary biometric preserving de-identification, and traditional biometric preserving de-identification. An overview of biometric de-identification in emerging domains such as sensor-based biometrics, social behavioral biometrics, psychological user profile identification, and aesthetic-based biometrics is presented. The article concludes with open questions and provides a rich avenue for subsequent explorations of biometric de-identification in the context of information privacy.
 <br/>
 
-###  Residual connection-based graph convolutional neural networks for gait recognition
+####  Residual connection-based graph convolutional neural networks for gait recognition
 
 - **Journal:** The Visual Computer
 - **Publication Year:** 2021
@@ -69,7 +69,7 @@ This is a collection of the research work that I have done till now.
   The walking manner of a person, also known as gait, is a unique behavioral biometric trait. Existing methods for gait recognition predominantly utilize traditional machine learning. However, the performance of gait recognition can deteriorate under challenging conditions including environmental occlusion, bulky clothing, and different viewing angles. To provide an effective solution to gait recognition under these conditions, this paper proposes a novel deep learning architecture using Graph Convolutional Neural Network (GCNN) that incorporates residual connections for gait recognition from videos. The optimized feature map of the proposed GCNN architecture exhibits the invariant property to viewing angle and subject’s clothing. The residual connection is used to capture both spatial and temporal features of a gait sequence. The kinematic dependency extracted from shallower network layer is propagated to deeper layer using residual connection-based GCNN architecture. The proposed method is validated on CASIA-B gait dataset and outperforms all recent state-of-the-art methods.
 <br/>
 
-###  A Graph Convolutional Neural Network for Reliable Gait-Based Human Recognition
+####  A Graph Convolutional Neural Network for Reliable Gait-Based Human Recognition
   
 - **Conference:** 2021 IEEE International Conference on Autonomous Systems (ICAS)
 - **Publication Year:** 2021
@@ -80,7 +80,7 @@ This is a collection of the research work that I have done till now.
   In a domain of human-machine autonomous systems, gait recognition provides unique advantages over other biometric modalities. It is an unobtrusive, widely-acceptable way of identity, gesture and activity recognition, with applications to surveillance, border control, risk prediction, military training and cybersecurity. Trustworthy and reliable person identification from videos under challenging conditions, when a subject’s walk is occluded by environmental elements, bulky clothing or a viewing angle, is addressed in this paper. It proposes a novel deep learning architecture based on Graph Convolutional Neural Network (GCNN) for accurate and reliable gait recognition from videos. The optimized feature map of the proposed GCNN architecture ensures that recognition remains accurate and invariant to viewing angle, type of clothing or other conditions.
 <br/>
 
-###  Age-Style and Alignment Augmentation for Facial Age Estimation
+####  Age-Style and Alignment Augmentation for Facial Age Estimation
   
 - **Conference:** International Conference on Computer Analysis of Images and Patterns
 - **Publication Year:** 2021
@@ -93,7 +93,7 @@ This is a collection of the research work that I have done till now.
  
 ## 2020:
 
-### Air Quality Index Prediction Using Azure IoT & Machine Learning for Smart Cities
+#### Air Quality Index Prediction Using Azure IoT & Machine Learning for Smart Cities
   
 - **Conference:**  International Conference on Computational Intelligence, Data Science and Cloud Computing 
 - **Publication Year:** 2020
@@ -104,7 +104,7 @@ This is a collection of the research work that I have done till now.
   In this paper, we are concerned about the air pollution & Air Quality Index (AQI) level. Today, every major city around the world is facing a worsened situation about public health & environmental disturbance. So, we have proposed an IoT-based solution that evolved with cloud computing platform likes Microsoft Azure, Azure IoT Hub and Azure machine learning (AML). These enhanced the scalability and life cycle of the system. The system classifies the health effects of human life from the air quality index level and gives interactive real-time data visualization results and push notification through the system. We have worked on Dhaka’s air quality dataset. Among major criteria pollutants, we have focused on PM  2.5 , PM  10 , CO, SO  2 , NO  2  that can help us to classify the air quality index level. Multiple classification algorithm is used to train the dataset. Among them, we have acquired the highest accuracy 99.89% with multiclass decision forest.
 <br/>
   
-### Short-term and Long-term Air Quality Forecasting Technique Using Stacked LSTM
+#### Short-term and Long-term Air Quality Forecasting Technique Using Stacked LSTM
   
 - **Conference:**  6th International Conference on Communication and Information Processing
 - **Publication Year:** 2020
@@ -115,7 +115,7 @@ This is a collection of the research work that I have done till now.
   For the entire globe, air pollution has been a worrying issue. Earth's Atmosphere contains numerous toxic gases and harmful solid particles are caused by Air pollution. Contaminated Air have been many mischievous effects on human health. Asthma, emphysema, chronic obstructive pulmonary disease and lung cancer can happen due to air contamination. Among other enlisted polluted cities, Dhaka lies in a hazardous problem for air pollution. This paper has approached two Long Short-Term Memory (Vanilla LSTM, Stacked LSTM) model and Gated Recurrent Unit (GRU) model to Predict air Quality Indexing with different hyper-parameter tuning. And analyze future the health effects based on Air Quality Index Level. We have worked on Dhaka Air Quality data which was collected by the United States Environmental Protection Agency (EPA). Among the two models, we have acquired the highest accuracy of 91.61% for Short-term prediction and 90.83% for Long-term prediction. And RMSE value of 4.65 and 16.19 for Air Quality Index value prediction on Stacked LSTM tuned with 200 hidden nodes on the first layer and 100 nodes on the second layer.
 <br/>
 
-###  Classification of Bangla News Articles Using Bidirectional Long Short Term Memory
+####  Classification of Bangla News Articles Using Bidirectional Long Short Term Memory
 
 - **Conference:** IEEE TENSYMP (2020 IEEE Region 10 Symposium)
 - **Publication Year:** 2020
@@ -127,7 +127,7 @@ This is a collection of the research work that I have done till now.
 <br/>
 
   
-### Bidirectional LSTM with Attention Mechanism for Automatic Bangla News Categorization In Terms of News Captions
+#### Bidirectional LSTM with Attention Mechanism for Automatic Bangla News Categorization In Terms of News Captions
 
 - **Conference:**  International Conference on Electronic Systems and Intelligent Computing
 - **Publication Year:** 2020
@@ -138,7 +138,7 @@ This is a collection of the research work that I have done till now.
   The aim of any classification problem is to create a set of models that can classify the class of different texts and objects. Text classification is known as one such application. This problem can be used in various classification task, e.g. news category classification, identifying language, classification of text genre, recommendation systems etc. In this paper we propose a text classification method using Bidirectional LSTM with Attention mechanism to classify Bangla news articles. This news articles are collected from a renowned a news portal Prothom-Alo. The dataset consist of in total 383304 news articles and there were total number of 12 different categories. Traditionally news classification task is done in terms of news content. But in our work we have performed classification based on the news captions. Which takes lesser amount of training time. We have achieved 91.37\% accuracy using our approach. This is the state of the art result that has achieved on this dataset.
 <br/>
 
-### Automatic Violence Detection Method Using Convolution Neural Network
+#### Automatic Violence Detection Method Using Convolution Neural Network
 
 - **Conference:** International Conference On Sentimental Analysis And Deep Learning (ICSADL 2020)
 - **Publication Year:** 2020
@@ -151,7 +151,7 @@ This is a collection of the research work that I have done till now.
   
 ## 2019:
   
-###  Hand Sign to Bangla Speech: A Deep Learning in Vision based system for Recognizing Hand Sign Digits and Generating Bangla Speech. 
+####  Hand Sign to Bangla Speech: A Deep Learning in Vision based system for Recognizing Hand Sign Digits and Generating Bangla Speech. 
 
 - **Conference:**  International Conference on Sustainable Computing in Science, Technology & Management (SUSCOM-2019)
 - **Publication Year:** 2019
@@ -162,7 +162,7 @@ This is a collection of the research work that I have done till now.
   Recent advancements in the field of computer vision with the help of deep neural networks have led us to explore and develop many existing challenges that were once unattended due to the lack of necessary technologies. Hand Sign/Gesture Recognition is one of the significant areas where the deep neural network is making a substantial impact. In the last few years, a large number of researches has been conducted to recognize hand signs and hand gestures, which we aim to extend to our mother-tongue, Bangla (also known as Bengali). The primary goal of our work is to make an automated tool to aid the people who are unable to speak. We developed a system that automatically detects hand sign based digits and speaks out the result in Bangla language. According to the report of the World Health Organization (WHO), 15% of people in the world live with some kind of disabilities. Among them, individuals with communication impairment such as speech disabilities experience substantial barrier in social interaction. The proposed system can be invaluable to mitigate such a barrier. The core of the system is built with a deep learning model which is based on convolutional neural networks (CNN). The model classifies hand sign based digits with 92% accuracy over validation data which ensures it a highly trustworthy system. Upon classification of the digits, the resulting output is fed to the text to speech engine and the translator unit eventually which generates audio output in Bangla language.
 <br/>
 
-###  End to End Optical Character Recognition Using Sythetic Dataset Generator For Noisy Conditions
+####  End to End Optical Character Recognition Using Sythetic Dataset Generator For Noisy Conditions
 
 - **Conference:** International Joint Conference on Computational Intelligence, IJCCI 2019
 - **Publication Year:** 2019
@@ -173,7 +173,7 @@ This is a collection of the research work that I have done till now.
   Optical Character Recognition is one of the most prevailing research fields since 1970's. Numerous research work has been conducted on Optical Character Recognition. The problem of Optical Character Recognition is to convert images of texts into editable texts. Recent advances in Deep Learning has accelerated the improvements in this field, particularly with languages with large annotated datasets. Bangla, a language with large number of character classes and complex cursive alphabet shapes, is unfortunately not included in these advancements due to the lack of a large annotated dataset. This work concentrates on attempting to perform OCR in noisy conditions for Bangla text. We have created a dataset of 5000 noisy Bangla text samples. To augment this small collection we use a strategy to pre-train our proposed End-to-End model on synthetically generated data and then optionally fine-tune on a part of the collected dataset. Our results indicate that attempting to perform noisy OCR is an extremely challenging task and the best results are obtained when models trained on synthetic data are fine tuned with some real world data.
 <br/>
 
-###  Unsupervised Pretraining and Transfer Learning Based Bangla Sign Language Recognition
+####  Unsupervised Pretraining and Transfer Learning Based Bangla Sign Language Recognition
 
 - **Conference:**  International Joint Conference on Computational Intelligence, IJCCI 2019.
 - **Publication Year:** 2019
@@ -185,7 +185,7 @@ This is a collection of the research work that I have done till now.
 <br/>
 
 
-### Synthetic Class Specific Bangla Handwritten Character Generation Using Conditional Generative Adversarial Networks
+#### Synthetic Class Specific Bangla Handwritten Character Generation Using Conditional Generative Adversarial Networks
 
 - **Conference:**  International Conference on Bangla Speech and Language Processing, ICBSLP 2019
 - **Publication Year:** 2019
@@ -199,7 +199,7 @@ This is a collection of the research work that I have done till now.
 ## 2018: 
   
 
-###  An incremental clustered gradient method for wireless sensor networks
+####  An incremental clustered gradient method for wireless sensor networks
 
 - **Conference:** 21st Saudi Computer Society National Computer Conference
 - **Publication Year:** 2018
@@ -211,7 +211,7 @@ This is a collection of the research work that I have done till now.
 <br/>
 
 ## 2017: 
-###  BanglaLekha-Isolated: A multi-purpose comprehensive dataset of Handwritten Bangla Isolated characters.(Journal)
+####  BanglaLekha-Isolated: A multi-purpose comprehensive dataset of Handwritten Bangla Isolated characters.(Journal)
 
 - **Publisher:** Elsevier Data in Brief, 12, 103-107.
 - **Publication Year:** 2017
@@ -222,7 +222,7 @@ This is a collection of the research work that I have done till now.
   BanglaLekha-Isolated, a Bangla handwritten isolated character dataset is presented in this article. This dataset contains 84 different characters comprising of 50 Bangla basic characters, 10 Bangla numerals and 24 selected compound characters. 2000 handwriting samples for each of the 84 characters were collected, digitized and pre-processed. After discarding mistakes and scribbles, 1,66,105 handwritten character images were included in the final dataset. The dataset also includes labels indicating the age and the gender of the subjects from whom the samples were collected. This dataset could be used not only for optical handwriting recognition research but also to explore the influence of gender and age on handwriting. The dataset is publicly available at https://data.mendeley.com/datasets/hf6sf8zrkc/2.
 <br/>
 
-### Image augmentation by blocky artifact in deep convolutional neural network for handwritten digit recognition.
+#### Image augmentation by blocky artifact in deep convolutional neural network for handwritten digit recognition.
 
 - **Conference:**  Imaging, vision & pattern recognition (icivpr), 2017 ieee international conference on (pp. 1–6)
 - **Publication Year:** 2017
@@ -235,7 +235,7 @@ This is a collection of the research work that I have done till now.
   
 ## 2016: 
   
-###  Bangla handwritten digit recognition using autoencoder and deep convolutional neural network. 
+####  Bangla handwritten digit recognition using autoencoder and deep convolutional neural network. 
 
 - **Conference:** International Workshop on Computational Intelligence
 - **Publication Year:** 2016
@@ -247,7 +247,7 @@ This is a collection of the research work that I have done till now.
 <br/>
 
 
-### Krill herd based clustering algorithm for wireless sensor networks
+#### Krill herd based clustering algorithm for wireless sensor networks
 
 - **Conference:** International Workshop on Computational Intelligence
 - **Publication Date:** 2016
