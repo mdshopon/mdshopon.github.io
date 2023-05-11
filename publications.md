@@ -32,7 +32,7 @@ This is a collection of the research work that I have done till now.
   Automatic decision-making, especially when dealing with crucial cybersecurity and privacy issues, has become one of the key directions in digital identity research. Trustworthy human-AI collaboration highlights emergent multifaceted role of AI and deep learning in biometric online security. Biometrics are also increasingly used in a variety of government programs, intended to ensure cybersecurity and to mitigate inherent risks associated with online activities. This chapter provides a comprehensive overview of the current state-of-the-art approaches in the biometric domain, including physiological, behavioral, and social behavioral biometrics. It further establishes connection among biometric online security, privacy, and human psychological traits, including emotions, psychology and aesthetics. This in turn leads to new insights on ensuring safe and secure digital space through artificial intelligence methods, including most recent deep learning approaches. In addition, this chapter discusses emerging paradigms to ensure privacy and trustworthiness of biometric systems: cancelability, de-identification, and information fusion. The chapter is concluded with future research directions in the vibrant domain of behavioral biometrics and online security.
 <br/>
 
- ## 2021: 
+## 2021: 
   
 ### Biometric System De-identification: Concepts, Applications, and Open Problems
 
@@ -58,7 +58,7 @@ This is a collection of the research work that I have done till now.
   Biometric de-identification is an emerging topic of research within the information security domain that integrates privacy considerations with biometric system development. A comprehensive overview of research in the context of authentication applications spanning physiological, behavioral, and social-behavioral biometric systems and their privacy considerations is discussed. Three categories of biometric de-identification are introduced, namely complete de-identification, auxiliary biometric preserving de-identification, and traditional biometric preserving de-identification. An overview of biometric de-identification in emerging domains such as sensor-based biometrics, social behavioral biometrics, psychological user profile identification, and aesthetic-based biometrics is presented. The article concludes with open questions and provides a rich avenue for subsequent explorations of biometric de-identification in the context of information privacy.
 <br/>
 
- ###  Residual connection-based graph convolutional neural networks for gait recognition
+###  Residual connection-based graph convolutional neural networks for gait recognition
 
 - **Journal:** The Visual Computer
 - **Publication Year:** 2021
