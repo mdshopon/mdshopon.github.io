@@ -9,14 +9,22 @@ This is a collection of my personal projects that I work on in my free time. Hop
 ---
 ## Gait Recognition
 
-The walking manner of a person, also known as gait, is a unique behavioral biometric trait. Existing methods for gait recognition predominantly utilize traditional machine learning. However, the performance of gait recognition can deteriorate under challenging conditions including environmental occlusion, bulky clothing, and different viewing angles. 
+Gait recognition is a challenging problem in computer vision that involves identifying individuals based on their walking patterns. Traditional methods for gait recognition rely on hand-crafted features and models that are often sensitive to variations in walking conditions and viewpoints. In recent years, deep learning techniques have shown promise in improving the accuracy and robustness of gait recognition systems.
 
-- In this project a reliable gait recognition system was proposed
-- A residual connection based graph convolutional neural networks was proposed
-- This proposed work was view and accessories invariant
-- _Tools_: Python, Tensoflow-Keras, OpenCV-Python.
+In this project, we propose a novel approach to gait recognition that leverages the power of deep learning and graph neural networks. Our approach uses graph convolutional neural networks (GCNs) to learn features from gait data that capture both spatial and temporal dependencies. Specifically, we represent gait data as a spatiotemporal graph, where each node corresponds to a joint in the human body, and edges represent the connections between joints.
 
+We use GCNs to learn node and edge embeddings that capture the features of each joint and their interactions with other joints over time. We then use these embeddings to train a deep neural network that can recognize individuals based on their gait patterns.
+![Alt Text](img/gait.jpg)
 <br/>
+
+## De-identification
+Face recognition is a powerful technology that has the potential to revolutionize various industries. However, it also raises significant concerns about privacy and surveillance. In many scenarios, it may be necessary to de-identify faces in images and videos to protect the privacy of individuals.
+
+In this project, we propose a novel approach to face de-identification that leverages the power of Generative Adversarial Networks (GANs). Our approach uses a GAN to generate realistic and anonymized versions of input face images, which preserve the identity-neutral attributes of the original images while obscuring the specific details that could be used to identify individuals.
+
+Our GAN architecture consists of two main components: a generator and a discriminator. The generator takes an input image and generates a de-identified version of the image, while the discriminator evaluates the quality of the generated images and provides feedback to the generator to improve its performance. By training the generator and discriminator together in an adversarial manner, we can achieve state-of-the-art results in face de-identification.
+![Alt Text](img/deid.png)
+
 
 ## BanglaLekha
 
